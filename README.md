@@ -17,11 +17,11 @@ The tutorial below outlines the prerequisites and installation of the Open-sourc
 
 <h2>The list of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
+- Enable Internet Information Services
+- Install Web Platform installer
+- Install C++ redistributable
 - Item 4
-- Item 5
+- Install osTcket
 
 <h2>Installation Steps</h2>
 
