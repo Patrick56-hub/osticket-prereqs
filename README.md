@@ -21,7 +21,6 @@ The tutorial below outlines the prerequisites and installation of the Open-sourc
 - Install Web Platform installer
 - Install C++ redistributable
 - Install
-- Install
 - Configure Permissions
 - Install osTcket
 
