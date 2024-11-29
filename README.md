@@ -18,9 +18,9 @@ The tutorial below outlines the prerequisites and installation of the Open-sourc
 <h2>The list of Prerequisites</h2>
 
 - Enable Internet Information Services
-- Install 
+- Install PHP 
 - Install C++ redistributable
-- Install 
+- Install mySQL Server
 - Configure Permissions
 - Install osTcket
 
@@ -36,17 +36,80 @@ Enabled the Internet Infomation Services with CGI and other Hypertext Transfer P
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/725a8151-6920-4b42-85f9-2b4aa0b8106a)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Installed the Rewrite Module and the PHP Manager for Internet Information Services, carried out some basic configurations on the PHP Manager.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/730650c9-cff6-445d-86ca-1554f34520a9)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Installed the Microsoft Visual C++ Redistributable
 </p>
 <br />
+<p>
+
+![image](https://github.com/user-attachments/assets/cccb82b1-d363-4180-8c77-46f7ee266bce)
+
+</p>
+<p>
+Installed the mySQL Server and carried out some basic security configurations.
+</p>
+<br />
+
+<p>
+
+![image](https://github.com/user-attachments/assets/baa0922d-e0e8-4bc1-9aa4-b5dbc021fdcd)
+
+</p>
+<p>
+Set the permissions on the PHP configuration files.
+</p>
+<br />
+
+<p>
+
+![image](https://github.com/user-attachments/assets/725a8151-6920-4b42-85f9-2b4aa0b8106a)
+
+</p>
+<p>
+Installed the Rewrite Module and the PHP Manager for Internet Information Services, carried out some basic configurations on the PHP Manager.
+</p>
+<br />
+
+<p>
+
+![image](https://github.com/user-attachments/assets/730650c9-cff6-445d-86ca-1554f34520a9)
+
+</p>
+<p>
+Installed the Microsoft Visual C++ Redistributable
+</p>
+<br />
+<p>
+
+![image](https://github.com/user-attachments/assets/cccb82b1-d363-4180-8c77-46f7ee266bce)
+
+</p>
+<p>
+Installed the mySQL Server and carried out some basic security configurations.
+</p>
+<br />
+
+<p>
+
+![image](https://github.com/user-attachments/assets/baa0922d-e0e8-4bc1-9aa4-b5dbc021fdcd)
+
+</p>
+<p>
+Set the permissions on the PHP configuration files.
+</p>
+<br />
+
