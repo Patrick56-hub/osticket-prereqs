@@ -74,42 +74,33 @@ Set the permissions on the PHP configuration files.
 </p>
 <br />
 
+<br />
 <p>
 
-![image](https://github.com/user-attachments/assets/725a8151-6920-4b42-85f9-2b4aa0b8106a)
+![image](https://github.com/user-attachments/assets/ea7d9418-538a-4cf9-a812-9232f96908a5)
+
 
 </p>
 <p>
-Installed the Rewrite Module and the PHP Manager for Internet Information Services, carried out some basic configurations on the PHP Manager.
+Installed the osTicket
 </p>
 <br />
 
 <p>
 
-![image](https://github.com/user-attachments/assets/730650c9-cff6-445d-86ca-1554f34520a9)
+
+![image](https://github.com/user-attachments/assets/d9e665af-8d52-4fcd-9bbe-161d12d071ee)
 
 </p>
 <p>
-Installed the Microsoft Visual C++ Redistributable
+Created the osTicket database  and configured some basic settings.
 </p>
 <br />
 <p>
 
-![image](https://github.com/user-attachments/assets/cccb82b1-d363-4180-8c77-46f7ee266bce)
 
-</p>
-<p>
-Installed the mySQL Server and carried out some basic security configurations.
-</p>
-<br />
+![image](https://github.com/user-attachments/assets/1368f41b-66c3-48c3-8710-9165a43ebe46)
 
-<p>
 
-![image](https://github.com/user-attachments/assets/baa0922d-e0e8-4bc1-9aa4-b5dbc021fdcd)
 
-</p>
-<p>
-Set the permissions on the PHP configuration files.
-</p>
-<br />
-
+![image](https://github.com/user-attachments/assets/be2b5408-c790-45ae-8d08-d7ade75d9fe3)
