@@ -66,7 +66,8 @@ Installed the mySQL Server and carried out some basic security configurations.
 
 <p>
 
-![image](https://github.com/user-attachments/assets/baa0922d-e0e8-4bc1-9aa4-b5dbc021fdcd)
+![Screenshot 2024-12-01 190743](https://github.com/user-attachments/assets/38d63a66-ff32-43ae-8567-ab0147287810)
+
 
 </p>
 <p>
@@ -82,7 +83,7 @@ Set the permissions on the PHP configuration files.
 
 </p>
 <p>
-Installed the osTicket
+Installed the osTicket.
 </p>
 <br />
 
@@ -93,14 +94,19 @@ Installed the osTicket
 
 </p>
 <p>
-Created the osTicket database  and configured some basic settings.
+Created the osTicket database and configured some basic settings.
 </p>
 <br />
 <p>
 
+  ![image](https://github.com/user-attachments/assets/1368f41b-66c3-48c3-8710-9165a43ebe46)
+</p>
+<p>
+  Successfully installed the "osTicket" ticketing system.
+</p>
 
-![image](https://github.com/user-attachments/assets/1368f41b-66c3-48c3-8710-9165a43ebe46)
+<br />
 
-
+<br />
 
 ![image](https://github.com/user-attachments/assets/be2b5408-c790-45ae-8d08-d7ade75d9fe3)
